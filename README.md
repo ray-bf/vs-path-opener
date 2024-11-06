@@ -1,4 +1,4 @@
-# Path Opener
+# HCL Path Opener
 
 Short cut to open simple relative paths in Terragrunt and Terraform hcl files.
 
@@ -9,6 +9,8 @@ Right click on a line like this in a `.hcl` or `.tf` file and select "Open Path"
 ```hcl
   source = "../../../../../..//squads/platform/a-common-module"
 ```
+
+![screenshot](./docs/open-demo.gif)
 
 ## Build / Package
 

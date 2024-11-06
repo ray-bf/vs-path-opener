@@ -2,7 +2,7 @@
   "name": "path-opener",
   "displayName": "HCL Path Opener",
   "description": "Open HCL file and directory paths in VS Code",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.50.0"
   },
